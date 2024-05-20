@@ -14,6 +14,7 @@ result_4.jpg  0.0625
 result_5.jpg  0.03125
 result_6.jpg  0.015625
 result_7.jpg  0.0078125
+```
 ## Exposure = 0.0625 s
 ![較長曝光](TestImage/metalens_denoise_PSF/result_4.jpg)
 ## Exposure = 0.03125 s
