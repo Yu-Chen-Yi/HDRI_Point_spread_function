@@ -1,0 +1,5 @@
+# Filename	exposure
+result_4.jpg	0.0625
+result_5.jpg	0.03125
+result_6.jpg	0.015625
+result_7.jpg	0.0078125
